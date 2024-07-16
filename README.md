@@ -21,5 +21,5 @@ To start the server, type in "node index.js" into the terminal
 ## Usage
 The below video displays the functionality of the API using Insomnia to perform CRUD operations. 
 
-![alt text](<Screen Recording 2024-07-07 at 6.13.42 PM (1).gif>)
-s
+![alt text](<untitled_-jul-15-2024-10_02-pm.mp4>)
+
